@@ -27,7 +27,7 @@ Follow the steps below to set up and run the project on your local machine.
 
 ```bash
 git clone https://github.com/bearwillness/authquickstart.git
-cd user-auth-system
+cd authquickstart
 ```
 
 ### 2. Set Up the Database
